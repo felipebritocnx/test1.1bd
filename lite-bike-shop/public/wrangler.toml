@@ -1,0 +1,5 @@
+name = "cnxtest"
+compatibility_date = "2026-04-27"
+
+[assets]
+directory = "./dist"
